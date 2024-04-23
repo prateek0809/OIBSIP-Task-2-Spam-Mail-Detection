@@ -27,7 +27,7 @@ Spam emails are a common nuisance and pose risks such as phishing attacks and ma
    ```
 
 ## Data
-The dataset used for training and testing can be found in the `data` directory.
+The dataset used for training and testing can be found in this same repository.
 
 ## Contributing
 Contributions to this project are welcome! If you have any ideas for improvements or new features, feel free to open an issue or submit a pull request.
